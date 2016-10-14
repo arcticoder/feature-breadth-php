@@ -18,6 +18,11 @@ _feature-breadth-php/7.1/symmetric-array-destructuring/example-cli.php:_
 
 ```
 <?php
+$data = [
+    [1, 'Tom'],
+    [2, 'Fred'],
+];
+
 // Convert the following array iteration from list() style to [] style:
 foreach ($data as list($id, $name)) {
     echo "index $id is $name\n";    
@@ -28,6 +33,11 @@ _feature-breadth-php/7.1/symmetric-array-destructuring/solution/solution-cli.php
 
 ```
 <?php
+$data = [
+    [1, 'Tom'],
+    [2, 'Fred'],
+];
+
 foreach ($data as [$id, $name]) {
     echo "index $id is $name\n";    
 }
