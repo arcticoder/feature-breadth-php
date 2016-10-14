@@ -8,7 +8,7 @@ https://secure.php.net/manual/en/migration71.new-features.php
 
 _PHP 7.1 - Symmetric array destructuring_
 
-If I want to practice symmetric array destructuring, but also familiarize myself with the new features of PHP 7.1, I would traverse the feature-breadth-php hierarchy and look at the README for that folder and example problem:
+If I want to practice and familiarize myself with the new features of PHP 7.1, but also , I would traverse feature-breadth-php hierarchy to the 7.1 directory, and then find the feature I wanted from within that folder. In this example it's symmetric-array-destructuring. Then I look at the README for that folder and example problem:
 
 _feature-breadth-php/7.1/symmetric-array-destructuring/README:_
 
