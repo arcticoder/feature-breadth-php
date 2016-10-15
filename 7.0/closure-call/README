@@ -1,0 +1,1 @@
+Closure::call() is a more performant, shorthand way of temporarily binding an object scope to a closure and invoking it.
