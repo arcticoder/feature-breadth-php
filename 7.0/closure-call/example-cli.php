@@ -1,9 +1,9 @@
 <?php
 
 class MyClass {
-	private $myCount;
-	
-	public function __construct($myCount) {
+    private $myCount;
+    
+    public function __construct($myCount) {
         $this->myCount = $myCount;
     }
 
@@ -13,7 +13,7 @@ class MyClass {
 }
 
 $myCountClosure = function($myCountPlus) {
-	return $this->getMyCount() + $myCountPlus;
+    return $this->getMyCount() + $myCountPlus;
 };
 
 $myClassFive = new MyClass(5);
