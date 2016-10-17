@@ -1,5 +1,5 @@
 # feature-breadth-php
-Improve your knowledge of language/framework feature breadth by release version: PHP
+Improve your knowledge of PHP language feature breadth by release version
 
 Familiarity and mastery of the latest features from a framework or language in an efficient manner is a challenge. I like the idea of having simple exercises organized by release version that incorporate minimal reliance on other language or framework features. This not only keeps the learning process itself streamlined but also allows a newcomer to that language/framework to get up to speed quickly with whatever project they're responsible for, by drilling down to the features they'll need most.
 
