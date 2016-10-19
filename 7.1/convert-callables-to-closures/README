@@ -1,0 +1,1 @@
+A new static method Closure::fromCallable() has been introduced to allow for callables to be easily converted into Closure objects.
